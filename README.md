@@ -3,6 +3,8 @@
 
 # Pre-requisites
 In VS Code you can use the Remote-Containers plugin to run this source code
+https://code.visualstudio.com/docs/remote/remote-overview
+
 Just install in VS Code using docker container, all pre-requisites will be provided.
 
 # Run Performance Tests
